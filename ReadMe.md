@@ -7,10 +7,6 @@ For a 3-dimensional point, we have three angles to consider - $\alpha, \beta, \t
 So we have a vector {x, y, z}. To rotate it, we need to mutiply the **3D Rotation Matrix** with it.
 
 1. **$\alpha$ for x axis**
-| a | b | c |
-|---|---|---|
-| d | e | f |
-| g | h | i |
 
 $$
 \begin{bmatrix}
