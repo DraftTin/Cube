@@ -15,6 +15,7 @@ $$
 0 & \sin{\alpha} & \cos{\alpha} \\
 \end{bmatrix}
 $$
+
 2. **$\beta$ for y-axis**
 
 $$
