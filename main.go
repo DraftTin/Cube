@@ -12,7 +12,7 @@ var width, height float64 = 160, 44
 var zBuffer [160 * 44]float64
 var buffer [160 * 44]uint8
 var backgroundASCIICode uint8 = '.'
-var distanceFromCam float64 = 100
+var distanceFromCam float64 = 80
 var horizontalOffset float64
 var K1 float64 = 40
 var x, y, z float64
@@ -75,8 +75,8 @@ func main() {
 	fmt.Printf("\x1b[2J")
 	for {
 		refresh()
-		cubeWidth := 20.0
-		horizontalOffset = -2 * cubeWidth
+		cubeWidth := 10.0
+		horizontalOffset = cubeWidth
 		for cubeX := -cubeWidth; cubeX < cubeWidth; cubeX += incrementSpeed {
 			for cubeY := -cubeWidth; cubeY < cubeWidth; cubeY += incrementSpeed {
 				calculateForSurface(cubeX, cubeY, -cubeWidth, '@')
