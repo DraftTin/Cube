@@ -15,7 +15,7 @@ $$
 0 & \sin{\alpha} & \cos{\alpha} \\
 \end{bmatrix}
 $$
-2. **$\beta$ for y axis**
+2. **$\beta$ for y-axis**
 
 $$
 \begin{bmatrix}
@@ -25,8 +25,8 @@ $$
 \end{bmatrix}
 $$
 
-3. **$\theta$ for y axis**
-4. 
+3. **$\theta$ for z-axis**
+
 $$
 \begin{bmatrix}
 \cos{\theta} & -\sin{\theta} & 0 \\
