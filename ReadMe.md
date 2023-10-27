@@ -16,6 +16,7 @@ $$
 \end{bmatrix}
 $$
 2. **$\beta$ for y axis**
+
 $$
 \begin{bmatrix}
 \cos{\beta} & 0 & \sin{\beta} \\
@@ -25,6 +26,7 @@ $$
 $$
 
 3. **$\theta$ for y axis**
+4. 
 $$
 \begin{bmatrix}
 \cos{\theta} & -\sin{\theta} & 0 \\
