@@ -1,5 +1,7 @@
 # Cube
 
+![Cube](cube.png)
+
 ## Math
 **Rotation Matrix**:
 For a 3-dimensional point, we have three angles to consider - $\alpha, \beta, \theta $, which reprent the angles of rotation along the x, y, z axes.
