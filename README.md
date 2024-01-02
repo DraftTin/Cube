@@ -4,7 +4,7 @@
 
 ## Math
 **Rotation Matrix**:
-For a 3-dimensional point, we have three angles to consider - $\alpha, \beta, \theta $, which reprent the angles of rotation along the x, y, z axes.
+For a 3-dimensional point, we have three angles to consider - $\alpha, \beta, \theta $, which represent the angles of rotation along the x, y, z axes.
 
 So we have a vector {x, y, z}. To rotate it, we need to mutiply the **3D Rotation Matrix** with it.
 
