@@ -54,5 +54,5 @@ According to **Perspective Projection**, **x' = x * depth, y' = y * depth**. In 
 xp := width / 2 + horizontalOffset + K1 * ooz * x * 2
 yp := height / 2 + K1 * ooz * y
 ```
-3. When one depth is less that the other depth, the small one can cover the big one.
+3. When one depth is less that the other depth, the bigger one can cover the smaller one.
 
